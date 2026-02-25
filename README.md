@@ -1,16 +1,30 @@
-## Hi there 👋
+##👋 Hi, I’m Farentino
 
-<!--
-**farentino/farentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓Computer Science Student | 💻 Mobile & Software Developer
+I build clean, scalable applications using Java (OOP, JUnit, JSON) and React Native (TypeScript).
+Experienced in developing structured systems like messaging platforms and cross-platform mobile apps with a strong focus on architecture, validation, and user-centered design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+;) Me 
+Motivated and adaptable IT professional with hands-on experience in computer setup,
+troubleshooting, and front-end/mobile development. Currently pursuing a qualification in
+Computer and Information Science. Passionate about delivering excellent customer service
+and learning new technologies to solve real-world problems. Strong communicator and fast
+learner with a commitment to quality and teamwork.
+
+
+🛠 Tech
+• TypeScript 
+• JavaScript 
+• React Native 
+• Unit Testing
+• Java
+• React Native
+• HTML
+• CSS
+
+
+🎯 Focus
+Writing maintainable code, solving real-world problems, and continuously leveling up as a developer.
+
+⭐ Building today. Improving every day.
